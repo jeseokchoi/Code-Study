@@ -1,1 +1,1 @@
-# Coding-Study
+# Cod-Study
